@@ -171,12 +171,3 @@ Update `BACKEND_URL` in `frontend/app.py` to point to your deployed API URL.
 | Testing | pytest + pytest-asyncio |
 
 ---
-
-## 📋 Future Enhancements
-
-- [ ] LinkedIn profile URL analysis
-- [ ] Resume builder / export to PDF
-- [ ] Multi-language resume support
-- [ ] User authentication (Azure AD B2C)
-- [ ] Analytics dashboard (Azure Monitor)
-- [ ] Batch resume screening for HR teams
